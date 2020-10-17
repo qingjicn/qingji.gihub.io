@@ -1253,7 +1253,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff1cac;
+  background: #ff6f45;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2816,7 +2816,7 @@ ul.breadcrumb li + li:last-child {
   margin-top: 20px;
 }
 body::before {
-  background-image: url("/images/bg.jpg");
+  background-image: url("https://w.wallhaven.cc/full/x1/wallhaven-x1rowv.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
